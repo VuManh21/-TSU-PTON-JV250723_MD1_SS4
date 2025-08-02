@@ -1,0 +1,30 @@
+#container{
+    width:450px;
+}
+#ulli{
+   width:200px;
+   float:left;
+}
+ul{
+    list-style-type: none;
+    background-color: rgb(234, 228, 228);
+    
+    padding:0;
+    
+}
+li a{
+    line-height: 50px;
+    text-decoration: none;
+    display:block;
+    color: black;
+    
+}
+li a:hover{
+    background-color: rgb(73, 178, 73);
+    color:white;
+}
+#text{
+ float:right;
+ width:200px;
+ text-align: left;
+}
